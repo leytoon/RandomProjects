@@ -27,6 +27,7 @@ namespace SecondTask
             Count1.Count();
             Count1.PrintResult();
 
+            Console.ReadKey();
         }
     }
 }
