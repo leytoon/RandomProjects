@@ -1,0 +1,7 @@
+E:\Zadania\Zadania_na_Rekrutacje\Tests\bin\Debug\Tests.dll
+E:\Zadania\Zadania_na_Rekrutacje\Tests\bin\Debug\Tests.pdb
+E:\Zadania\Zadania_na_Rekrutacje\Tests\bin\Debug\Logic.dll
+E:\Zadania\Zadania_na_Rekrutacje\Tests\bin\Debug\Logic.pdb
+E:\Zadania\Zadania_na_Rekrutacje\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+E:\Zadania\Zadania_na_Rekrutacje\Tests\obj\Debug\Tests.dll
+E:\Zadania\Zadania_na_Rekrutacje\Tests\obj\Debug\Tests.pdb

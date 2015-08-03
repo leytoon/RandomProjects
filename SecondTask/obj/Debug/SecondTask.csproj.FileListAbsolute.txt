@@ -1,0 +1,8 @@
+E:\Zadania\Zadania_na_Rekrutacje\SecondTask\bin\Debug\SecondTask.exe.config
+E:\Zadania\Zadania_na_Rekrutacje\SecondTask\bin\Debug\SecondTask.exe
+E:\Zadania\Zadania_na_Rekrutacje\SecondTask\bin\Debug\SecondTask.pdb
+E:\Zadania\Zadania_na_Rekrutacje\SecondTask\bin\Debug\Logic.dll
+E:\Zadania\Zadania_na_Rekrutacje\SecondTask\bin\Debug\Logic.pdb
+E:\Zadania\Zadania_na_Rekrutacje\SecondTask\obj\Debug\SecondTask.exe
+E:\Zadania\Zadania_na_Rekrutacje\SecondTask\obj\Debug\SecondTask.pdb
+E:\Zadania\Zadania_na_Rekrutacje\SecondTask\obj\Debug\SecondTask.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\Zadania\Zadania_na_Rekrutacje\Logic\bin\Debug\Logic.dll
+E:\Zadania\Zadania_na_Rekrutacje\Logic\bin\Debug\Logic.pdb
+E:\Zadania\Zadania_na_Rekrutacje\Logic\obj\Debug\Logic.dll
+E:\Zadania\Zadania_na_Rekrutacje\Logic\obj\Debug\Logic.pdb

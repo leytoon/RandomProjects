@@ -1,0 +1,8 @@
+E:\Zadania\Zadania_na_Rekrutacje\FirstTask\bin\Debug\FirstTask.exe.config
+E:\Zadania\Zadania_na_Rekrutacje\FirstTask\bin\Debug\FirstTask.exe
+E:\Zadania\Zadania_na_Rekrutacje\FirstTask\bin\Debug\FirstTask.pdb
+E:\Zadania\Zadania_na_Rekrutacje\FirstTask\bin\Debug\Logic.dll
+E:\Zadania\Zadania_na_Rekrutacje\FirstTask\bin\Debug\Logic.pdb
+E:\Zadania\Zadania_na_Rekrutacje\FirstTask\obj\Debug\FirstTask.exe
+E:\Zadania\Zadania_na_Rekrutacje\FirstTask\obj\Debug\FirstTask.pdb
+E:\Zadania\Zadania_na_Rekrutacje\FirstTask\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache
